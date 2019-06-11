@@ -31,7 +31,7 @@ También debemos contemplar dos tipos especiales de aves: los aguiluchos colorad
 
 La fuerza de un **aguilucho colorado** es de 400 unidades más de lo que correspondería según el cálculo de un aguilucho común de sus mismas características.
 
-Para una **paloma torcaza**, la fuerza aumenta en 100 unidades para cada uno de sus huevos. Una paloma torcaza nace con 3 huevos. Cuando recibe un disgusto, además de la acción común a todas las palomas, pone un huevo.
+Para una **paloma torcaza**, la fuerza aumenta en 100 unidades por cada uno de sus huevos. Una paloma torcaza nace con 3 huevos. Cuando recibe un disgusto, además de la acción común a todas las palomas, pone un huevo.
 
 
 ## Islas
