@@ -55,7 +55,7 @@ Armar un test con el siguiente escenario inicial
 
 Verificar que
 - la fuerza del aguilucho debe ser 580, la del albatros 1100, y la de la paloma 700 respectivamente.
-- el peso del aguilucho debe ser 4500.
+- el peso del albatros debe ser 4500.
 - la fuerza total de la isla es 2380.
 - las aves débiles de la isla son el aguilucho y la paloma.
 
